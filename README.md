@@ -6,7 +6,7 @@ My name is Trey Angel. I am currently a junior at the University of Iowa studyin
 
 ## Table of contents
 
-- [PROJECT TITLE](#Project Title)
+- [PROJECT TITLE](#Project-Title)
 - [BACKGROUND](#Background)
 - [EXPERIENCE](#Experience)
 - [HOBBIES](#Hobbies)
